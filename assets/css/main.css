@@ -1,3 +1,7 @@
+.footer {
+    margin-bottom: 150px;
+    padding-bottom: 50px;
+}
 .left {
     float: left;
 }
@@ -56,4 +60,39 @@
     padding-right: 20px;
     margin: 20px;
 }
-#journal
+#journal div {
+    display: inline-block;
+    width: 250px;
+    align-content: center;
+    margin: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+#journal {
+    margin-left: 150px;
+    margin bottom: 80px;
+}
+.black {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.touch {
+    background-color: black;
+    text-align: center;
+}
+.touch p {
+    color: floralwhite;
+}
+.ahem {
+    text-decoration: underline;
+    color: floralwhite;
+}
+#services div{
+    display: inline-block;
+    width: 380px;
+    height: 80px;
+}
+#services{
+    margin-left: 80px;
+}
