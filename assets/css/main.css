@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*body*/
 body{
     background-color:;
@@ -14,19 +15,92 @@ body{
 .top-nav{
    color: white;
     margin-top: 0px;
+=======
+.footer {
+    margin-bottom: 150px;
+    padding-bottom: 50px;
+}
+.left {
+    float: left;
+}
+.left p {
+    text-align: left;
+    padding-left: 150px;
+    width: 350px;
+}
+.list {
+    list-style: none;
+    padding-left: 150px;
+    width: 25px;
+}
+#submit_btn {
+    color: darkred;
+}
+.right {
+    float: right;
+    width: 700px;
+>>>>>>> d910942a404795d863fecb5f9a455442a60878c6
     text-align: center;
 }
-header{
-    font-size: 25px; 
-   padding-left: 50px;
-    padding-top: 100px;
+.le {
+    float: left;
+    width: 350px;
+    background-color: darkgray;
+    height: 80px;
 }
-h1{
+.ri {
+    float: right;
+    width: 350px;
+    background-color: darkslategrey;
+    height: 80px;
+}
+.now {
+    float: left;
+    width: 350px;
+    background-color: darkslategrey;
+    height: 80px;
+}
+.then {
+    float: right;
+    width: 350px;
+    background-color: darkgray;
+    height: 80px;
+}
+.links {
+    background-color: black;
+    color: floralwhite;
+    text-align: center;
+    height: 350px;
+}
+.logos img {
+    display: inline-block;
+    color: floralwhite;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+}
+#journal div {
+    display: inline-block;
+    width: 250px;
+    align-content: center;
+    margin: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+#journal {
+    margin-left: 150px;
+    margin bottom: 80px;
+}
+.black {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.touch {
+    background-color: black;
     text-align: center;
 }
-p{
-    text-align: center;
-}
+<<<<<<< HEAD
 .button{
     border: 1px;
     height: 70px;
@@ -201,6 +275,8 @@ vertical-align: middle;
     background-color: black;
     text-align: center;
 }
+=======
+>>>>>>> d910942a404795d863fecb5f9a455442a60878c6
 .touch p {
     color: floralwhite;
 }
@@ -215,5 +291,9 @@ vertical-align: middle;
 }
 #services{
     margin-left: 80px;
+<<<<<<< HEAD
     margin-top: 150px;
 }
+=======
+}
+>>>>>>> d910942a404795d863fecb5f9a455442a60878c6
