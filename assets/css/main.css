@@ -2,7 +2,16 @@
 body{
     background-color:;
 }
-
+.button{
+    height: 60px;
+    width: 100px;
+    border: 1px solid red;
+    background-color: red;
+    
+}
+a{
+    color: white;
+}
 /*===============================================================home
 =================================================================*/
 #home{
@@ -81,6 +90,7 @@ overflow: auto;
 /*history/title*/
 #about{
     margin-top: 50px;
+   
 }
 .same-line{
  
@@ -92,14 +102,15 @@ overflow: auto;
    
 }
 .history{
-    padding-left: 150px;
+ border: 1px; 
 float: left; 
-width: 50%;
+width: 20%;
     height: 700px;
 display: table-cell;
 vertical-align: middle;
     width: 50%;
-height: 600px  
+height: 600px ;
+    text-align: center;
 
 }
 
@@ -112,11 +123,16 @@ width: 50%;
         600px;
 display: table-cell;
 vertical-align: middle;
+    
+}
+
+.mid-logo{
+    display: inline;
 }
 
 
-
-/*styles2*/
+/*========================================================styles2
+==========================================================*/
 .footer {
     margin-bottom: 150px;
     padding-bottom: 50px;
@@ -215,4 +231,7 @@ vertical-align: middle;
 #services{
     margin-left: 80px;
     margin-top: 150px;
+    background-color: whitesmoke;
+    height: 500px;
+    width: 1285px;
 }
