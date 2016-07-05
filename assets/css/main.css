@@ -36,33 +36,41 @@ p{
 =================================================================*/
 #work{
     padding-top: 0px;
-    height: 500px;
+    height: 700px;
     width: 1285px;
     display: table-cell;
    
 }
 .left{
+    background-color: whitesmoke;
     float: left;
     border: 1px;
-width: 50%;
-    height: 500px;
+width: 40%;
+    height: 700px;
 display: table-cell;
 vertical-align: middle;
-
 overflow: auto;
+   
 }
 .right{
     background-color:#F63C3C;
    float: right;
-width: 50%;
-    height: 500px;
+width: 60%;
+    height: 700px;
 display: table-cell;
 vertical-align: middle;
 
 
 overflow: auto;
 }
-
+.space{
+    margin-top:100px;
+    background-color: #30282A;
+    height: 200px;
+}
+.discover{
+    padding-top: 100px;
+}
 /*=========================================================about
 ===========================================================*/
 #about{
