@@ -46,6 +46,7 @@ a .button{
     height: 70px;
     width:100px;
     opacity: 0;
+    margin-left: 400px;
 }
 /*===============================================================work
 =================================================================*/
@@ -74,9 +75,13 @@ width: 60%;
     height: 700px;
 display: table-cell;
 vertical-align: middle;
-
-
 overflow: auto;
+     
+
+}
+ .text{
+   padding-left: 50px;
+    padding-top: 400px;
 }
 .space{
     margin-top:100px;
@@ -216,6 +221,7 @@ vertical-align: middle;
     width: 50px;
     height: 50px;
     background-color: #30282A;
+    margin-top: 100px;
 }
 .touch {
     background-color: #30282A;
